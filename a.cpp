@@ -3,6 +3,4 @@
 int main{
 std::cout<<"he";
 std::cout<<
-
-as
 }
