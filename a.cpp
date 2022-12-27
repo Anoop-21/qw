@@ -2,7 +2,5 @@
 
 int main{
 std::cout<<"he";
-<<<<<<< Updated upstream
-=======
-a
+i want you
 }
