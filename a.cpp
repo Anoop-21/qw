@@ -5,5 +5,4 @@ std::cout<<"he";
 <<<<<<< Updated upstream
 =======
 a
->>>>>>> Stashed changes
 }
