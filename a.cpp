@@ -2,7 +2,7 @@
 
 int main{
 std::cout<<"he";
-std::cout<<"he";
+std::cout<<
 
 
-}qwqw
+}
